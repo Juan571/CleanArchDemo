@@ -17,6 +17,7 @@
 
   <ItemGroup>
     <ProjectReference Include="..\ArchLimpio.Infra.Data\ArchLimpio.Infra.Data.csproj" />
+    <ProjectReference Include="..\ArchLimpio.Infra.IoC\ArchLimpio.Infra.IoC.csproj" />
   </ItemGroup>
 
 
